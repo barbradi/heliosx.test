@@ -1,0 +1,12 @@
+spring.application.name: heliosx.test
+heliosx:
+  questions:
+    - id: "1"
+      question: "do you drink alcohol?"
+    - id: "2"
+      question: "do you practice pilates?"
+    - id: "3"
+      question: "do you sleep 8 hours a day?"
+hubspot.get-endpoint: /candidateTest/v3/problem/dataset
+hubspot.post-endpoint: /candidateTest/v3/problem/result
+hubspot.user-key: 98da2b2613e16cfc6e227a2a9084
