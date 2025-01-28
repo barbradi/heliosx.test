@@ -1,9 +1,7 @@
 package com.javier.heliosx.test;
 
-import com.javier.heliosx.test.infrastructure.configuration.QuestionsProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
 @SpringBootApplication
 public class Application {
